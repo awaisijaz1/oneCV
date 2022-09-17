@@ -17,7 +17,7 @@
 ### Steps to run Code
 - Clone the repository
 ```
-git clone https://github.com/RizwanMunawar/yolov5-object-tracking.git
+git clone https://github.com/awaisijaz1/oneCV/
 ```
 
 - Goto the cloned folder.
